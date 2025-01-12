@@ -1,6 +1,4 @@
 
----
-
 ### Quick Start
 
 ```matlab
